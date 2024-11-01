@@ -1,0 +1,1 @@
+type ApiError = string;
